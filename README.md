@@ -9,3 +9,6 @@ This repository is currently under preparation.
 ## Post-Acceptance Release Plan 
 Upon acceptance of the manuscript, this repository will be fully updated to include the complete implementation of the proposed WCCAN framework.
 
+## Citation
+The paper is currently under review. Citation details will be added upon acceptance.
+
