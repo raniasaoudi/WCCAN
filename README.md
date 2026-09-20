@@ -2,10 +2,7 @@
 
 WCCAN: Windowed Cross-Contrast Attention Network for Multi-Contrast Brain Magnetic Resonance Image Super-Resolution
 
-Official repository for the paper:
-
-**WCCAN: Windowed Cross-Contrast Attention Network for Multi-Contrast Brain Magnetic Resonance Image Super-Resolution**
-
+Official repository for the paper: **WCCAN: Windowed Cross-Contrast Attention Network for Multi-Contrast Brain Magnetic Resonance Image Super-Resolution**
 Published in *Magnetic Resonance in Medical Sciences (MRMS)*, Volume 25, Issue 4, 2026.
 
 ## Status
